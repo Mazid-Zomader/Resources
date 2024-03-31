@@ -1,13 +1,12 @@
-# CSE110 Resources - Spring 2024
+# CSE110 Resources - 
 
-Welcome to the CSE110 Resources repository for the Spring 2024 semester at BRAC University. This repository contains resources and materials for the course, which is taught in Java.
+Welcome to the CSE110 Resources repository for BRAC University Students. This repository contains resources and materials for the course, which is taught in Java.
 
 ## Course Information
 
 - **Course Title:** CSE110 (Programming Language I)
 - **Language:** JAVA
 - **University:** BRAC University
-- **Semester:** Spring 2024
 
 ## Contents
 
