@@ -1,4 +1,4 @@
-# CSE220 Resources - 
+# CSE220 Resources 
 
 Welcome to the CSE220 Resources repository for BRAC University Students. This repository contains resources and materials for the course, which is a language independent course.
 
