@@ -6,7 +6,7 @@ Welcome to the CSE220 Resources repository for BRAC University Students. This re
 
 - **Course Title:** CSE220 (Data Structure)
 - **Language:** **PYTHON**, JAVA, C++
-- **University:** BRAC University
+- **Institution:** BRAC University
 
 ## Contents
 
