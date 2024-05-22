@@ -11,6 +11,8 @@ The repository is organized by course, with each course having its own folder. I
 The following courses are included in this repository:
 
 - CSE110 [ Programming Language-I ] [ Language - JAVA ]
+  
+  **Assignment solves here : Link:** https://github.com/Mazid-Zomader/CSE110
 - CSE111 [ Programming Language-II ] [ Language - PYTHON ]
 
   **Find it on CSE111 Respiratory** | Link: https://github.com/Mazid-Zomader/CSE111
